@@ -1,5 +1,4 @@
-# A Huge Collection of Exercises and Problems About 
-LINKED LISTS
+# A Huge Collection of Exercises and Problems About LINKED LISTS
 
 <img src = "https://jonlennartaasenden.files.wordpress.com/2019/05/use-case-graphic_full-stack-provisioning.png">
 
