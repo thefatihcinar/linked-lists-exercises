@@ -9,6 +9,11 @@
 | :------------------------------------------------: | :---: |  :---:  | :---:  |
 | Move Last Element to Front of a Given Linked List  | [C++](https://github.com/fatihcinar1/linked-lists-exercises/blob/master/Solutions/Singly%20Linked%20List/Move%20Last%20Element%20to%20Front%20of%20a%20Given%20Linked%20List/move-last-to-front.cpp) </br> [Java](https://github.com/fatihcinar1/linked-lists-exercises/blob/master/Solutions/Singly%20Linked%20List/Move%20Last%20Element%20to%20Front%20of%20a%20Given%20Linked%20List/move-last-to-front.java)   | `Singly Linked List`  | [`GeeksforGeeks`](https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/)|
 | Finding The Middle of a Linked List | [C++](https://github.com/fatihcinar1/linked-lists-exercises/blob/master/Solutions/Singly%20Linked%20List/Finding%20The%20Middle%20of%20a%20Linked%20List/middle-linked-list.cpp)  | `Singly Linked List`  | [`GeeksforGeeks`](https://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/)|
+| Flattening a Linked List | [C++](https://github.com/fatihcinar1/linked-lists-exercises/blob/master/Solutions/Singly%20Linked%20List/Flattening%20a%20Linked%20List/flattening-linked-list.cpp#L57)  | `Singly Linked List`  | [`GeeksforGeeks`](https://www.geeksforgeeks.org/flattening-a-linked-list/)|
+
+
+
+
 
 <br /><br /><br /><br /><br /><br />
 
